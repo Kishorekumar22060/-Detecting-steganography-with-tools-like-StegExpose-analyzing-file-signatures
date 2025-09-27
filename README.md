@@ -46,6 +46,26 @@ java -jar StegExpose.jar suspect.jpg
 ```
 ## OUTPUT:
 List of Images with Steganography Detection Scores and File Signature Details
+### Install and Verify Steghide Tool
+![image](https://github.com/user-attachments/assets/3719303e-1517-48f5-ab66-ee9cdf314759)
+
+### Embed the Secret Message into the Image
+![image](https://github.com/user-attachments/assets/079fa42c-9615-438c-b46e-e82644fd8659)
+
+### Delete Original Secret File
+![image](https://github.com/user-attachments/assets/ebb0e137-d5b4-4978-8c04-fc07c2a0ac96)
+
+###  Extract the Hidden Secret from Image
+![image](https://github.com/user-attachments/assets/44ab3d26-56c5-4845-b4d0-25e7aa1c857c)
+
+### Verify the Extracted Message
+![image](https://github.com/user-attachments/assets/9d67f14e-272a-4dc7-8963-ebe08d10527b)
+
+### Retrieve Information About the Embedded Data
+![image](https://github.com/user-attachments/assets/1d2ed2e9-59d5-4541-8319-66c0c0be82f6)
+
+### Analyze File Signature
+![image](https://github.com/user-attachments/assets/292fdad7-cd87-4c07-bd43-d7808ad7c509)
 
 ## RESULT:
 Hidden data was successfully detected and file signatures were analyzed for irregularities.
